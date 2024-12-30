@@ -37,7 +37,7 @@ This program retrieves newsletters from a specific label in your Gmail account, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lahourba/email_scraper
+   git clone https://github.com/lahourba/newsletter_summarizer.git
    cd email_scraper
    ```
 
